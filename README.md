@@ -1,3 +1,6 @@
+###### [Open Browser](https://github-nas4fy.stackblitz.io/home)
+---
+
 # Empty_new
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 3.2.2.
